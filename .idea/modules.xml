@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SenSocketClient.iml" filepath="$PROJECT_DIR$/SenSocketClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensocket-core/sensocket-core.iml" filepath="$PROJECT_DIR$/sensocket-core/sensocket-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensocket-tcp/sensocket-tcp.iml" filepath="$PROJECT_DIR$/sensocket-tcp/sensocket-tcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensocket-udp/sensocket-udp.iml" filepath="$PROJECT_DIR$/sensocket-udp/sensocket-udp.iml" />
+    </modules>
+  </component>
+</project>

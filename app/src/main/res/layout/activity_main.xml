@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.shenhua.sensocketclient.MainActivity">
+
+    <Button
+        android:id="@+id/btnTcpNio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="tcpNio"
+        android:text="Tcp Nio" />
+
+    <Button
+        android:id="@+id/btnTcpBio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="tcpBio"
+        android:text="Tcp Bio" />
+
+    <Button
+        android:id="@+id/btnUdpNio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="udpNio"
+        android:text="Udp Nio" />
+
+    <Button
+        android:id="@+id/btnUdpBio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="udpBio"
+        android:text="Udp Bio" />
+
+</LinearLayout>

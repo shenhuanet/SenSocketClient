@@ -1,0 +1,1 @@
+include ':app', ':sensocket-core', ':sensocket-tcp', ':sensocket-udp'
